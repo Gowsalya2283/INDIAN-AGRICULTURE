@@ -1,1 +1,4 @@
-# INDIAN-AGRICULTURE
+# INDIAN-AGRICULTURE                                                                                                                                                                                                                                                                                                                                                                                                                
+Dashboard public link  - https://public.tableau.com/views/Book2_16967388290040/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link                                                            
+Story- https://public.tableau.com/views/Story2_16967396600770/Story2?:language=en-US&:display_count=n&:origin=viz_share_link                             
+ video Demonstration -https://www.mediafire.com/file/qwpkh5c3a5m6ig/video.guru_20231011_202146680.mp4/file               
